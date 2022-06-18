@@ -33,11 +33,11 @@ export default function NavBar() {
                   title="Women"
                   menuVariant="white"
                 >
-                  <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.4">Women</NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                  <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.1">Tops</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.2">Dresses</NavDropdown.Item>
+                  <NavDropdown.Item href="#action/3.3">Jeans</NavDropdown.Item>
                 </NavDropdown>
                 <NavDropdown
                   id="nav-dropdown-link"

@@ -1,5 +1,5 @@
 import './App.css';
-import { Head } from './components/Navbar/Head';
+import { Promobar } from './components/Navbar/Promobar';
 // import { Hero } from './components/Hero/Hero';
 import NavBar from './components/Navbar/NavBar';
 import { Search } from './components/Navbar/Search';
@@ -9,7 +9,7 @@ import { Search } from './components/Navbar/Search';
 function App() {
   return (
     <div>
-      <Head/>
+      <Promobar/>
       <Search/>
       <NavBar/>
       {/* <Cards/> */}
