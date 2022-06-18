@@ -1,0 +1,13 @@
+.head{
+    background-color:  rgba(161,214,202,1);
+    padding: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: .8rem;
+    font-family: "Avenir Next Regular",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+.promo-link{
+    color:black;
+    padding:.9rem;
+}

@@ -1,0 +1,40 @@
+.main-bar{
+    display: flex;
+    display: inline-block;
+    padding: .7rem;
+    color:rgb(17, 16, 16);
+    background-color: #f6f6f6;
+    width:100%;
+}
+.store{
+   display: flex;
+   display: inline-block;
+   padding: .5rem;
+   margin: .5rem;
+   border-top: 2px solid white;
+   border-right:2px solid white;
+   border-left:2px solid white; 
+}
+.store .active{
+    display: flex;
+    display: inline-block;
+    padding: .5rem;
+    margin: .5rem;
+    background-color: white;
+ }
+.link{
+    font-size: 1.5rem;
+    padding-right: 1rem;
+    color:rgb(17, 16, 16);
+    text-decoration: none;
+}
+
+.link:hover{
+    font-size: 1.5rem;
+    padding-right: 1rem;
+    color:rgb(17, 16, 16);
+    text-decoration: none;
+}
+/* .icon:hover{
+    color:black;
+} */
