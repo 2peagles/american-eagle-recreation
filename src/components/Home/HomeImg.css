@@ -1,0 +1,52 @@
+.homeImg{
+    height:70vh;
+    width:100%;
+    margin-top:5vh;
+    position: relative;
+    text-align: center;
+    background: cover;
+    background-position: center;
+    background:url('../../Images/beach.jpg');
+}
+a{
+    color:black;
+}
+.home-icon{
+    width:5%;
+    display: flex;
+    margin-top:5vh;
+    justify-content: center;
+    padding:5px 25px;
+    width: cal(100%-30%);
+    border-radius: 1rem;
+    background-color: rgba(246, 237, 237, 0.2);
+}
+.home-one{
+    width:25vh;
+    /* width:cal(100%-50%); */
+    position: relative;
+    margin-left:25vh;
+    padding:5px;
+    /* background-color: beige; */
+}
+h1 , p{
+    font-weight: bold;
+}
+h6{
+    font-size: .7rem;
+    padding:8px;
+}
+button{
+    display: flex;
+    display: block;
+    padding:3px 20px;
+    margin:10px;
+    border:none;
+    background-color:rgba(161,214,202,1); 
+}
+button a{
+    text-decoration: none;
+}
+button a:hover{
+    color:black;
+}

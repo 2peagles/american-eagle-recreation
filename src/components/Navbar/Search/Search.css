@@ -1,0 +1,20 @@
+.main-bar{
+    width:100%;
+    /* position: relative; */
+    color:rgb(3, 3, 102);
+    background-color: #f6f6f6;
+    font-family: "Avenir Next Regular",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+/* 
+.icon{
+    float:right; 
+    position: relative;
+    background-color: #f6f6f6;
+    position:absolute;
+} */
+
+.tab-container{
+    width:100%;
+    position: absolute; 
+    background-color: #f6f6f6;
+}

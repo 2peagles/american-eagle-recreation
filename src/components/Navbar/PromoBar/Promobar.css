@@ -1,13 +1,23 @@
 .promobar{
     background-color:  rgba(161,214,202,1);
-    padding: 2rem;
+    padding: 1rem;
     text-align: center;
     font-weight: bold;
     font-size: .8rem;
+    width:100%;
+    /* position: fixed; */
     font-family: "Avenir Next Regular",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
 
 .promo-link{
     color:black;
     padding:.9rem;
+}
+.accessibility {
+    color:black;
+    float:right;
+    font-size: .6rem;
+}
+.indicators-pill{
+  border-radius: 1rem;
 }
